@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6986cd59941ae94418f1de1b31dd6a73, type: 3}
+  m_Name: Crossbow
+  m_EditorClassIdentifier: 
+  m_ID: 86390521
+  m_ItemName: Crossbow
+  m_ConsumableItem:
+    m_ItemType: {fileID: 11400000, guid: ca7adaeb138fc344da140e6741cb9ea0, type: 2}
+    m_Capacity: 20
+  m_TwoHandedItem: 1
+  m_Crosshairs:
+    m_Center: {fileID: 21300040, guid: 75321efc1cacf154ea0be1a244ad29e8, type: 3}
+    m_Offset: 0
+    m_Left: {fileID: 0}
+    m_Top: {fileID: 0}
+    m_Right: {fileID: 0}
+    m_Bottom: {fileID: 0}
+    m_AccuracyLossPercent: .0500000007
+  m_ItemSprite: {fileID: 21300008, guid: 75321efc1cacf154ea0be1a244ad29e8, type: 3}

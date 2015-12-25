@@ -1,0 +1,333 @@
+fileFormatVersion: 2
+guid: 75321efc1cacf154ea0be1a244ad29e8
+timeCreated: 1447201487
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: WeaponBackground
+    21300002: Katana
+    21300004: Axe
+    21300006: Dagger
+    21300008: Crossbow
+    21300010: Bow
+    21300012: Slingshot
+    21300014: HeartFull
+    21300016: HeartHalfFull
+    21300018: NoItem
+    21300020: HeartEmpty
+    21300022: Sprites_1
+    21300024: Push
+    21300026: Pull
+    21300028: Climb
+    21300030: Ledge
+    21300032: NoItemCrosshairs
+    21300034: MeleeCrosshairs
+    21300036: BowCrosshairs
+    21300038: SlingshotCrosshairs
+    21300040: CrossbowCrosshairs
+    21300042: Touchpad
+    21300044: Button
+    21300046: HitIndicator
+    21300048: NoWeaponBackground
+    21300050: LoadedBackground
+    21300052: Open
+    21300054: Interact
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: WeaponBackground
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 869
+        width: 148
+        height: 148
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Katana
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 872
+        width: 68
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Axe
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 892
+        width: 84
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dagger
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 763
+        width: 94
+        height: 101
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crossbow
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 671
+        width: 125
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bow
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 804
+        width: 86
+        height: 134
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Slingshot
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 675
+        width: 50
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HeartFull
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 662
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HeartHalfFull
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 662
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NoItem
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 725
+        width: 84
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HeartEmpty
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 662
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Push
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 690
+        width: 172
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pull
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 806
+        width: 172
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Climb
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 918
+        width: 172
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ledge
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 813
+        width: 172
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NoItemCrosshairs
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 628
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MeleeCrosshairs
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 620
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BowCrosshairs
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 608
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SlingshotCrosshairs
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 608
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CrossbowCrosshairs
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 612
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HitIndicator
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 538
+        width: 52
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NoWeaponBackground
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 714
+        width: 148
+        height: 148
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LoadedBackground
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 529
+        width: 80
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Open
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 690
+        width: 172
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Interact
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 927
+        width: 172
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
